@@ -1,0 +1,150 @@
+{
+  "datosMujeres": [
+    {
+      "Player": "Venus Williams",
+      "maxVelocity": 207.6,
+      "Event": "2007 US Open",
+      "Type": "Singles",
+      "Gender": "Female",
+      "Year": 2007
+    },
+    {
+      "Player": "Kristina Mladenovic",
+      "maxVelocity": 200.0,
+      "Event": "2009 French Open",
+      "Type": "Singles",
+      "Gender": "Female",
+      "Year": 2009
+    },
+    {
+      "Player": "Serena Williams",
+      "maxVelocity": 207.0,
+      "Event": "2013 Australian Open",
+      "Type": "Singles",
+      "Gender": "Female",
+      "Year": 2013
+    },
+    {
+      "Player": "Sabine Lisicki",
+      "maxVelocity": 210.8,
+      "Event": "2014 Stanford",
+      "Type": "Singles",
+      "Gender": "Female",
+      "Year": 2014
+    },
+    {
+      "Player": "Caroline Garcia",
+      "maxVelocity": 203.0,
+      "Event": "2016 Fed Cup",
+      "Type": "Singles",
+      "Gender": "Female",
+      "Year": 2016
+    },
+    {
+      "Player": "Georgina García Pérez",
+      "maxVelocity": 220.0,
+      "Event": "2018 Hungarian Ladies Open",
+      "Type": "Singles",
+      "Gender": "Female",
+      "Year": 2018
+    },
+    {
+      "Player": "Alycia Parks",
+      "maxVelocity": 207.6,
+      "Event": "2021 US Open",
+      "Type": "Singles",
+      "Gender": "Female",
+      "Year": 2021
+    },
+    {
+      "Player": "Coco Gauff",
+      "maxVelocity": 206.0,
+      "Event": "2022 US Open",
+      "Type": "Singles",
+      "Gender": "Female",
+      "Year": 2022
+    },
+    {
+      "Player": "Naomi Osaka",
+      "maxVelocity": 205.0,
+      "Event": "2024 Abu Dhabi Open",
+      "Type": "Singles",
+      "Gender": "Female",
+      "Year": 2024
+    }
+  ],
+  "datosHombres": [
+    {
+      "Player": "Andy Roddick",
+      "maxVelocity": 249.4,
+      "Event": "2004 Davis Cup",
+      "Type": "Singles",
+      "Gender": "Male",
+      "Year": 2004
+    },
+    {
+      "Player": "Chris Guccione",
+      "maxVelocity": 248.0,
+      "Event": "2006 Davis Cup",
+      "Type": "Singles",
+      "Gender": "Male",
+      "Year": 2006
+    },
+    {
+      "Player": "Ivo Karlović",
+      "maxVelocity": 251.0,
+      "Event": "2011 Davis Cup",
+      "Type": "Doubles",
+      "Gender": "Male",
+      "Year": 2011
+    },
+    {
+      "Player": "Sam Groth",
+      "maxVelocity": 263.4,
+      "Event": "2012 Busan Open Challenger Tennis",
+      "Type": "Singles",
+      "Gender": "Male",
+      "Year": 2012
+    },
+    {
+      "Player": "John Isner",
+      "maxVelocity": 253.0,
+      "Event": "2016 Davis Cup",
+      "Type": "Singles",
+      "Gender": "Male",
+      "Year": 2016
+    },
+    {
+      "Player": "Oscar Otte",
+      "maxVelocity": 243.0,
+      "Event": "2021 US Open",
+      "Type": "Singles",
+      "Gender": "Male",
+      "Year": 2021
+    },
+    {
+      "Player": "Alexei Popyrin",
+      "maxVelocity": 243.0,
+      "Event": "2023 Tokyo",
+      "Type": "Singles",
+      "Gender": "Male",
+      "Year": 2023
+    },
+    {
+      "Player": "Giovanni Mpetshi Perricard",
+      "maxVelocity": 244.6,
+      "Event": "2024 French Open",
+      "Type": "Doubles",
+      "Gender": "Male",
+      "Year": 2024
+    },
+    {
+      "Player": "Ben Shelton",
+      "maxVelocity": 241.4,
+      "Event": "2025 BNP Paribas Open (Indian Wells)",
+      "Type": "Singles",
+      "Gender": "Male",
+      "Year": 2025
+    }
+  ]
+}
