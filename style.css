@@ -55,9 +55,6 @@ font-weight: bold;
 }
 
 .divInfoPlayer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 
     color: #000000;
 }
@@ -67,7 +64,7 @@ font-weight: bold;
     flex-direction: column;
     align-items: center;
 }
-  
+
 
 /* Clase para las imágenes del hover */
 .hover-player-image {
@@ -86,6 +83,9 @@ font-weight: bold;
   
 .textCenter{
     text-align: center;
+    align-content: center;  
+    margin: auto;
+
 }
 
 
@@ -110,4 +110,26 @@ font-weight: bold;
   .hover-info-text br {
     display: none;
   }
+
+  .gridInfo{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid: 1rem;
+  }
+
+  .gridDerecho {
+    grid-column: 1 / 2;
+  }
+  .gridIzquierdo {
+    grid-column: 2 / 3;
+    
+  }
+
+.alignTodo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+  
   

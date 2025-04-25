@@ -233,7 +233,7 @@ myPlot.on('plotly_hover', function(dataHover) {
     const imagePath = `img/${playerImage}`;
 
     return `
-      <div class="hover-tooltip">
+      <div class="hover-tooltip textCenter">
         <img src="${imagePath}" alt="${playerName}" class="hover-player-image">
         <div class="hover-text-content">
           <div class="player-name">${playerName}</div>
@@ -255,7 +255,7 @@ myPlot.on('plotly_hover', function(dataHover) {
         type: "indicator",
         value: d.y,
         delta: { reference: 300 },
-        gauge: { axis: { visible: false, range: [0, 250] } },
+        gauge: { axis: { visible: false, range: [0, 263.4] } },
         domain: { row: 0, column: 0 }
       }
     ];
@@ -269,9 +269,9 @@ myPlot.on('plotly_hover', function(dataHover) {
         data: {
           indicator: [
             {
-              title: { text: "Speed" },
-              mode: "number+delta+gauge",
-              delta: { reference: 90 }
+              title: { text: "Velocidad" },
+              mode: "number+gauge",
+              delta: { reference: 263.4 }
             }
           ]
         }
